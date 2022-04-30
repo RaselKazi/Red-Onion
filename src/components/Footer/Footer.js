@@ -62,7 +62,7 @@ const Footer = () => {
 				</div>
 				<div className="row secondary">
 					<div className="col-lg-8">
-						<p>Copyright &copy; 2020 | Nusrat Jahan</p>
+						<p>Copyright &copy; 2020 | Rasel Kazi</p>
 					</div>
 					<div className="col-lg">
 						<ul className="nav">
